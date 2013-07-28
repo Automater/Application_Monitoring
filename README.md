@@ -26,7 +26,7 @@ It is developed keeping in mind all those admin and power users who use programs
 ### TESTING APPROACH ###
 
 
-A.  Script it using AA script.
+A.  Script using AA script.
 
 ![Alt text](http://173.0.133.251/images/GitHub/PingScript.jpg "AA Ping script")
 
