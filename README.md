@@ -10,49 +10,18 @@ It is developed keeping in mind all those admin and power users who use programs
 
 ![Alt text](http://173.0.133.251/images/GitHub/downtime.gif "Downtime Alert")
 
+
+### BENEFITS OF APPLICATION MONITORING ###
+
+<ol>
+<li>Make sure all business-critical applications are running.</li>
+<li>Detect undesired network activity.</li>
+<li>Control resource usage.</li>
+<li>Improve Network Performance.</li>
+</ol>
+
 ![Alt text](http://173.0.133.251/images/GitHub/monitoring.jpg "Monitoring")
 
-
-### INTELLIGENT APPLICATION ###
-
-<ol>
-<li>Monitor websites for any new product listings and extract data.</li>
-<li>Financial analysts monitor trends and stats for products.</li>
-<li>Save search engine results into a database instead of HTML or web file.</li>
-<li>Extract property information from websites.</li>
-<li>Monitor blogs and forums.</li>
-<li>Compare interest rates from various sources.</li>
-<li>Harvest contacts and addresses.</li>
-<li>Lead generation.</li>
-<li>Monitor customer opinions about you and competitors.</li>
-<li>Run multiple web data extraction tasks simultaneously at once.</li>
-<li>Gain or retain a competitive edge.</li>
-<li>Able to read and extract from multilingual websites such as Chinese, German, Korean, Arabic, French, etc.</li>
-</ol>
-
-![Alt text](http://173.0.133.251/images/GitHub/webAutomation2.jpg "Intelligent Web Application")
-
-
-
-### BUSINESS RISK / CONSIDERATIONS ###
-
-Flash animation is a great way to present complex content because it allows the designer to put more content in a finite space, without wrecking page design. For technology sites, Flash is an ideal way to present a slide show or movie explaining a complex product.
-
-At the other end of the spectrum, a site built entirely with Flash suffers a great disadvantage because it lacks page structure to organize the content, internal linking, and unique page titles.  And Flash gets a bad rap, undeserved in my opinion, for harming search engine visibility.
-
-However, worry no more as this web data extraction function works with any website made of:
-
-<ol>
-<li>Flash</li>
-<li>I-frames</li>
-<li>AJAX</li>
-<li>Sites with and without frames</li>
-<li>Secure sites and non-secure sites</li>
-<li>Sites with JavaScript</li>
-<li>Static and dynamic web sites</li>
-<li>Forums and blogs</li>
-<li>...and much more</li>
-</ol>
 
 
 
