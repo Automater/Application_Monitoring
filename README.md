@@ -13,16 +13,14 @@ It is developed keeping in mind all those admin and power users who use programs
 
 ### BENEFITS OF APPLICATION MONITORING ###
 
+![Alt text](http://173.0.133.251/images/GitHub/monitoring.jpg "Monitoring")
+
 <ol>
 <li>Make sure all business-critical applications are running.</li>
 <li>Detect undesired network activity.</li>
 <li>Control resource usage.</li>
 <li>Improve Network Performance.</li>
 </ol>
-
-![Alt text](http://173.0.133.251/images/GitHub/monitoring.jpg "Monitoring")
-
-
 
 
 ### TESTING APPROACH ###
