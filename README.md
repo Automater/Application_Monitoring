@@ -25,49 +25,29 @@ It is developed keeping in mind all those admin and power users who use programs
 
 ### TESTING APPROACH ###
 
-A.  Go to any website to extract data from e.g. http://businessfinder.mlive.com/
 
-![Alt text](http://173.0.133.251/images/GitHub/website-mlive.jpg "Website to extract data from")
+A.  Script it using AA script.
 
+![Alt text](http://173.0.133.251/images/GitHub/PingScript.jpg "AA Ping script")
 
-B.  Type "Audit" as the search keyword.
+B.  Email alert sent to your email.
 
-![Alt text](http://173.0.133.251/images/GitHub/results.jpg "Keyword")
-
-
-C.  Data extracted from the search results which may span multiple pages i.e. it can go to the next page until the last page automatically.
-
-![Alt text](http://173.0.133.251/images/GitHub/extracted.jpg "Data extracted from the website")
-
-
-D.  Results of the extraction.
-
-![Alt text](http://173.0.133.251/images/GitHub/data.jpg "Results of the extraction")
-
-
-E.  Saved results in "Audit_Firms_Michigan.csv" file.
-
-![Alt text](http://173.0.133.251/images/GitHub/excel.jpg "Results saved in csv file")
-
-
-F.  Modifications to the scripts may be made easily.
-
-![Alt text](http://173.0.133.251/images/GitHub/script.jpg "Modifications to the scripts")
+![Alt text](http://173.0.133.251/images/GitHub/EmailAlert.jpg "AA Ping script")
 
 
 ### THIRD-PARTY REQUIREMENTS ###
 
-1.  The web data extraction process rely on an external application called Automation Anywhere (http://http://www.automationanywhere.com).  The easiest way to install Automation Anywhere on a Windows computer is to download the software from http://http://www.automationanywhere.com/download/freeTrial.htm.
+1.  The application monitoring process rely on an external application called Automation Anywhere (http://http://www.automationanywhere.com).  The easiest way to install Automation Anywhere on a Windows computer is to download the software from http://http://www.automationanywhere.com/download/freeTrial.htm.
 
 2.  Copy both script files into the folder: "My Documents\Automation Anywhere\Automation Anywhere\My Tasks".  For example: "C:\Users\Photoshop\Documents\Automation Anywhere Files\Automation Anywhere\My Tasks"
 
-A)  Data_Harvesting.atmx
+A)  Application Monitoring.atmx
  
-B)  Data_Harvesting.atmr
+B)  Application Monitoring.atmr
 
-You will be able to see the saved script in the Automation Anywhere's task pane.  Now you can run the ACL script to call the script in Automation Anywhere to perform the web data extraction.
+You will be able to see the saved script in the Automation Anywhere's task pane.  Now you can run the ACL script to call the script in Automation Anywhere to perform the application monitoring.
 
-![Alt text](http://173.0.133.251/images/GitHub/AA.jpg "Saved task")
+![Alt text](http://173.0.133.251/images/GitHub/ApplicationMonitoring.jpg "Saved task")
 
 <blockquote>Automation Anywhere scripting is easy to learn and can the learning curve of the person from programming background such as VB, C, C++, java, .Net, etc. will be much smaller and can trained faster.</blockquote>
 
