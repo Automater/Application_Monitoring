@@ -1,0 +1,7 @@
+@ACL1000
+^LOGFILE  Application_Monitoring              "" "Application_Monitoring.LOG"
+[PARENT_FOLDER_ID] 0
+^BATCH    Application_Monitoring             
+[PARENT_FOLDER_ID] 0
+EXECUTE '"C:\ACL_DATA\Application_Monitoring\ApplicationMonitoring.bat"' ASYNC
+^OPEN 
