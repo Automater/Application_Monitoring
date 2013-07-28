@@ -1,6 +1,6 @@
 ### Software Application Monitoring ###
 
-![Alt text](http://173.0.133.251/images/GitHub/SoftwareMonitor.jpg "Software Application Monitoring")
+![Alt text](http://173.0.133.251/images/GitHub/SoftwareMonitoring.jpg "Software Application Monitoring")
 
 Software application monitoring script constantly checks the software processes and when it detects that one of those processes has stopped working, it will automatically send an email* alert to the designated person.
 
