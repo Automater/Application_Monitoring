@@ -1,12 +1,16 @@
-### Extract web search engine data and save it to a database ###
+### Software Application Monitoring ###
 
-![Alt text](http://173.0.133.251/images/GitHub/webDataExtImg.jpg "Web data extraction")
+![Alt text](http://173.0.133.251/images/GitHub/SoftwareMonitor.jpg "Software Application Monitoring")
 
+Software application monitoring script constantly checks the software processes and when it detects that one of those processes has stopped working, it will automatically send an email* alert to the designated person.
 
-Web data extraction when performed manually, is a time consuming, and error-prone process. Furthermore, maintenance of any manual based approach is very expensive and not scalable.
+![Alt text](http://173.0.133.251/images/GitHub/notification.jpg "Notification")
 
-Automating data gathering and analysis is crucial for enterprises to retain or gain a competitive edge. 
+It is developed keeping in mind all those admin and power users who use programs that must always be running (such as webserver, database, mailserver, p2p) and that don't have a built-in restart function.
 
+![Alt text](http://173.0.133.251/images/GitHub/downtime.gif "Downtime Alert")
+
+![Alt text](http://173.0.133.251/images/GitHub/monitoring.jpg "Monitoring")
 
 
 ### INTELLIGENT APPLICATION ###
